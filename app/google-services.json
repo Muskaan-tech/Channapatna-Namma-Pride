@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60037515966",
+    "project_id": "channapatnatoy-3e4f3",
+    "storage_bucket": "channapatnatoy-3e4f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60037515966:android:461fbb19a4c0281793acef",
+        "android_client_info": {
+          "package_name": "com.channapatna.nammapride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNC-vaMEXsXdkJ6my3FUHAICpolHCwbCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
